@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @abdotha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++ ...
-- 💞️ I’m looking to collaborate on my new project ...
-- 📫 How to reach me 
-- this is my email
-- abdotha5@gmail.com  ...
+# clinic appointment system
 
-<!---
-abdotha/abdotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The clinic appointment system is an advanced application developed in C++ to efficiently manage and organize appointments for a clinic with multiple doctors. This system provides a comprehensive solution for scheduling, tracking, and canceling appointments, ensuring smooth operations within the clinic.
