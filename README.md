@@ -1,11 +1,18 @@
-# Clinic Appointment System
+# Clinic Appointment System with Text File Database
 
-This is a simple clinic appointment system implemented in C++ where patients can book appointments with doctors and administrators can manage doctors and view doctor schedules.
+This is a clinic appointment system implemented in C++ with database functionality using text files and the `fstream` library. Patients can book appointments with doctors, and administrators can manage doctors and view doctor schedules.
 
 ## Features
 
 - Patients can choose a doctor and book an appointment time.
 - Administrators can add new doctors, delete doctors, and view doctor schedules.
+
+## Database Setup
+
+1. Ensure you have access to text files for storing doctor names and appointment schedules.
+2. Each doctor will have two corresponding text files:
+   - One for storing the doctor's name (e.g., `dr_smith.txt`, `dr_johnson.txt`, etc.).
+   - Another for storing the booked appointment times (e.g., `dr_smith_schedule.txt`, `dr_johnson_schedule.txt`, etc.).
 
 ## How to Use
 
@@ -47,9 +54,11 @@ This is a simple clinic appointment system implemented in C++ where patients can
 ## Running the Program
 
 1. Clone this repository.
-2. Navigate to the directory containing the source code.
+2. Ensure you have access to the required text files for database operations.
 3. Compile the source code using a C++ compiler.
 4. Run the executable file generated.
 
 
+
+### Patient Mode
 
