@@ -60,5 +60,5 @@ This is a clinic appointment system implemented in C++ with database functionali
 
 
 
-### Patient Mode
+
 
