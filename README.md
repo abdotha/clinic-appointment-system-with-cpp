@@ -9,10 +9,8 @@ This is a clinic appointment system implemented in C++ with database functionali
 
 ## Database Setup
 
-1. Ensure you have access to text files for storing doctor names and appointment schedules.
-2. Each doctor will have two corresponding text files:
-   - One for storing the doctor's name (e.g., `dr_smith.txt`, `dr_johnson.txt`, etc.).
-   - Another for storing the booked appointment times (e.g., `dr_smith_schedule.txt`, `dr_johnson_schedule.txt`, etc.).
+1. Ensure you have access to the `doctors.txt` file for storing doctor names.
+2. Each doctor's schedule will be stored in a separate text file named after the doctor.
 
 ## How to Use
 
@@ -54,11 +52,9 @@ This is a clinic appointment system implemented in C++ with database functionali
 ## Running the Program
 
 1. Clone this repository.
-2. Ensure you have access to the required text files for database operations.
+2. Ensure you have access to the `doctors.txt` file and the text files containing doctor schedules.
 3. Compile the source code using a C++ compiler.
 4. Run the executable file generated.
-
-
 
 
 
